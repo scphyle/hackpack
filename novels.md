@@ -1,4 +1,6 @@
-  > What separates a good researcher from a great one is intuition. Building that intuition is a challenge, but a great place to start is with books that ask good questions, talk about high level concepts, and leave the technical details to textbooks.
+# Novels
+
+> What separates a good researcher from a great one is intuition. Building that intuition is a challenge, but a great place to start is with books that ask good questions, talk about high level concepts, and leave the technical details to textbooks.
   
 
 ## Nonfiction
