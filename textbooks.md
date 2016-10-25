@@ -6,7 +6,7 @@
 |Title|Author(s)|Link|
 |:---|:---|:---|
 |*Machine Learning: A Probabilistic Perspective*|Kevin Murphy|N/A|
-|*Artificial Intelligence: A Modern Approach*|Stuart Russel, Peter Norvig||
+|*Artificial Intelligence: A Modern Approach*|Stuart Russel, Peter Norvig|N/A|
 
 
 ## Specific Textbooks
