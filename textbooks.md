@@ -12,6 +12,6 @@
 ## Specific Textbooks
 |Title|Author(s)|Link|
 |:---|:---|:---|
-|*Make Your Own Neural Network*|Tariq Rashid|[Here, Google Drive](https://drive.google.com/open?id=0B65X3y3Tw2wYVk93THo4YXg2QVU)|
+|*Make Your Own Neural Network*|Tariq Rashid|:scroll: [Here](https://drive.google.com/open?id=0B65X3y3Tw2wYVk93THo4YXg2QVU)|
 |*Neural Networks And Deep Learning*|Michael Nielson|[Here, book site](http://neuralnetworksanddeeplearning.com/)|
 |*Deep Learning*|Ian Goodfellow, et. al.|[Here, book site](http://deeplearningbook.com/)|
