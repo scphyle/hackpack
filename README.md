@@ -12,7 +12,7 @@ Everything you'll need for hacking your way through artificial intelligence.
 - [Tutorials](https://github.com/ucfsigai/hackpack/blob/master/tutorials.md)
   - MOOCs (Massively Online, Open Courses)
   - Blogs
-- [YouTube Channels](https://github.com/ucfsigai/hackpack/blob/master/yt-channels.md)
+  - YouTube Channels
 
 Each .md file has a list of the appropriate places, with either links or actual documents there. We do our best to host whatever books, novels, papers, etc. we can, but for legal reasons sometimes we can't. You'll find a :scroll: next to the title.
 You can also find this reproduced, in prettier (and maybe greater) detail on our site: http://ucfsigai.github.io/
